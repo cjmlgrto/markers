@@ -6,7 +6,7 @@ A library of pre-built components for annotating your designs.
 
 ### Directly
 
-You can open it directly in Sketch [**using this link**](sketch://add-library?url=https%3A%2F%2Fgithub.com%2Fcjmlgrto%2Fmarkers%2Fblob%2Fmaster%2F.appcast.xml).
+You can open it directly in Sketch [using this link](sketch://add-library?url=https%3A%2F%2Fgithub.com%2Fcjmlgrto%2Fmarkers%2Fblob%2Fmaster%2F.appcast.xml).
 
 ### Manually
 
